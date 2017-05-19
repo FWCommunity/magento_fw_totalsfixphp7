@@ -1,0 +1,3 @@
+src/app/etc/modules/FW_Totalsfixphp7.xml app/etc/modules/FW_Totalsfixphp7.xml
+src/app/code/local/FW/Totalsfixphp7/Model/Sales/Quote/Address/Total/Collector.php app/code/local/FW/Totalsfixphp7/Model/Sales/Quote/Address/Total/Collector.php
+src/app/code/local/FW/Totalsfixphp7/etc/config.xml app/code/local/FW/Totalsfixphp7/etc/config.xml
