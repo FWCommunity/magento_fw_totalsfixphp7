@@ -3,7 +3,6 @@ class FW_Totalsfixphp7_Model_Sales_Quote_Address_Total_Collector extends Mage_Sa
     protected function _getSortedCollectorCodes() {
         return array(
             'nominal',
-            'awsarp2_subscription',
             'subtotal',
             'tax_subtotal',
             'tax_shipping',
