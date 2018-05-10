@@ -12,11 +12,8 @@ class FW_Totalsfixphp7_Model_Sales_Quote_Address_Total_Collector extends Mage_Sa
             'shipping',
             'discount',          
             'offer',
-            'rewardpoints_catalog',
-            'rewardpoints',
             'tax',
             'offer_after_tax',
-            'rewardpoints_after_tax',
             'grand_total',
             'aw_giftcard2'
         );
