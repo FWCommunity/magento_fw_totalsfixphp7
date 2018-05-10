@@ -4,21 +4,20 @@ class FW_Totalsfixphp7_Model_Sales_Quote_Address_Total_Collector extends Mage_Sa
         return array(
             'nominal',
             'subtotal',
-            'tax_subtotal',
-            'tax_shipping',
-            'msrp',
             'freeshipping',
+            'giftwrapping',
+            'tax_subtotal',
+            'msrp',
             'weee',
             'shipping',
-            'discount',          
-            'offer',
-            'rewardpoints_catalog',
-            'rewardpoints',
+            'tax_shipping',
+            'discount',
             'tax',
-            'offer_after_tax',
-            'rewardpoints_after_tax',
+            'tax_giftwrapping',
             'grand_total',
-            'aw_giftcard2'
+            'reward',
+            'giftcardaccount',
+            'customerbalance'
         );
     }
 }
